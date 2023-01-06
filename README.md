@@ -2,4 +2,4 @@
 
 [Demo](https://malskykirill.github.io/react-shop/)
 
-The project was created using Materialise and FortniteApi.io.
+Проект создан с использованием  Materialise и FortniteApi.io
