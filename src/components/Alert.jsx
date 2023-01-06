@@ -10,6 +10,7 @@ function Alert(props) {
       clearTimeout(timerId);
     }
 
+  // eslint-disable-next-line
   }, [name])
 
   return (
