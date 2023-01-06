@@ -91,7 +91,7 @@ function Shop() {
   console.log(order);
   return (
     <main className='container content'>
-      <Cart quantity={order.length} handleBasketShow={handleBasketShow} />
+      <Cart order={order} handleBasketShow={handleBasketShow} />
       {loading ? (
         <Preloader />
       ) : (
